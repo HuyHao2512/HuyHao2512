@@ -1,7 +1,3 @@
-# Chào mừng đến với Tường nhà của tôi! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=username&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/username?style=social)
 
 ## 👨‍💻 Về tôi
 Xin chào! Tôi là Hồ Huy Hào – một lập trình viên! Tôi đam mê phát triển phần mềm và luôn tìm cách cải thiện kỹ năng và học hỏi công nghệ mới.
