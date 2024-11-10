@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="center" alt="Coding" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 Xin chào! Tôi là Hồ Huy Hào – một lập trình viên! Tôi đam mê phát triển phần mềm và luôn tìm cách cải thiện kỹ năng và học hỏi công nghệ mới.
 - 📫 Liên hệ với tôi qua email: hohuyhao2013@gmail.com
 
