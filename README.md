@@ -17,5 +17,4 @@ Technologies & Tools
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
-
+![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=Electron)
